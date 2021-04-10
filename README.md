@@ -18,8 +18,6 @@ Java and Python are the main back-end programming languages that I've used in my
   </a>
 </p>
 
----
-
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=joseflauzino&show_icons=true&theme=tokyonight" />
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=joseflauzino&theme=tokyonight" />
