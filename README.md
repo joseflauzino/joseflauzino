@@ -1,4 +1,6 @@
 ### Hi, I'm José 👋
+Welcome to my GitHub!
+I've experience as an IT technician, professor, researcher, and developer. I'm currently working on the design and development of an NFV platform called Vines, which is part of the Apache CloudStack cloud platform.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&labelColor=0a66c2&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joseflauzino)](https://www.linkedin.com/in/joseflauzino)
 [![ResearchGate Badge](https://img.shields.io/badge/-ResearchGate-00ccbb?style=flat-square&labelColor=00ccbb&logo=researchgate&logoColor=white&link=https://www.researchgate.net/profile/Jose-Flauzino)](https://www.researchgate.net/profile/Jose-Flauzino)
