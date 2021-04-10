@@ -7,17 +7,14 @@ I've experience as an IT technician, professor, researcher, and developer. I'm c
 Java and Python are the main back-end programming languages I've used in my projects. In addition, technologies like Spring, Maven, and Django, are very present.  
 
 <p align="center">
-  <a href="https://github.com/joseflauzino?tab=followers">
-    <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&labelColor=0a66c2&logo=linkedin&logoColor=white" alt="GitHub badge" />
+  <a href="https://www.linkedin.com/in/joseflauzino">
+    <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&labelColor=0a66c2&logo=linkedin&logoColor=white" alt="My LinkedIn profile" />
   </a>
-  <a href="http://twitter.com/eddiejaoude">
-    <img src="https://img.shields.io/twitter/follow/eddiejaoude?label=Twitter&logo=twitter&style=for-the-badge" />
+  <a href="https://www.researchgate.net/profile/Jose-Flauzino">
+    <img src="https://img.shields.io/badge/-ResearchGate-00ccbb?style=flat-square&labelColor=00ccbb&logo=researchgate&logoColor=white" alt="My ResearchGate profile"/>
   </a>
-  <a href="https://discord.com/invite/jZQs6Wu">
-    <img src="https://img.shields.io/discord/699608417039286293?logo=discord&style=for-the-badge" />
-  </a>
-  <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/views/2IzRSHT5Hw8?label=YouTube&logo=YouTube&style=for-the-badge" />
+  <a href="https://www.facebook.com/jhoy.flauzino">
+    <img src="https://img.shields.io/badge/-Facebook-2d88ff?style=flat-square&labelColor=2d88ff&logo=facebook&logoColor=white" alt="My Facebook profile"/>
   </a>
 </p>
 
