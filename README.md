@@ -4,7 +4,7 @@ Welcome to my GitHub!
 
 I've experience as an IT technician, professor, researcher, and developer. I'm currently working on the design and development of an NFV platform called Vines, which is part of the Apache CloudStack cloud platform. At the moment, Vines is an unofficial CloudStack project. 
 
-Java and Python are the main back-end programming languages I've used in my projects. In addition, technologies like Spring, Maven, and Django, are very present.  
+Java and Python are the main back-end programming languages that I've used in my projects. In addition, technologies like Spring, Maven, and Django, are very present.  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joseflauzino">
