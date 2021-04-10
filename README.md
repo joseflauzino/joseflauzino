@@ -1,5 +1,3 @@
-## <span>&#x1f1e7;&#x1f1f7;</span>
-
 ### Hi, I'm José 👋
 
 Welcome to my GitHub!
