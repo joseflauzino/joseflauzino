@@ -1,4 +1,4 @@
-:br:
+:brazil:
 
 ### Hi, I'm José 👋
 
