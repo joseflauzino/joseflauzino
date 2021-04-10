@@ -1,5 +1,10 @@
 ### Hi, I'm José 👋
 
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=appveyor&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joseflauzino)](https://www.linkedin.com/in/joseflauzino)
+[![ResearchGate Badge](https://img.shields.io/badge/-ResearchGate-00ccbb?style=for-the-badge&labelColor=00ccbb&logo=researchgate&logoColor=white&link=https://www.researchgate.net/profile/Jose-Flauzino)](https://www.researchgate.net/profile/Jose-Flauzino)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/jhoy.flauzino)](https://www.facebook.com/jhoy.flauzino)
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=joseflauzino&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=joseflauzino&theme=tokyonight" />
